@@ -1,1 +1,2 @@
 # Make-Boxes-with-AI
+The "Make Squares" game is a classic two-player game played on an M x N grid of dots. Players take turns connecting dots to form squares. Completing a square earns a point and grants another turn to the player. The objective is to score the most points by completing the highest number of squares. This project implements the MINIMAX algorithm to determine the optimal moves for a player, enabling intelligent gameplay decisions.
